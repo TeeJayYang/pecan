@@ -4,8 +4,8 @@
 :root {
   /* choose background colors, ordered from left to right */
   /* set --pecan-bg-center to "none" to have date's background same as bar */
-  --pecan-bg: #222222;
-  --pecan-bg-pecanworkspace: #F6C697;
+  --pecan-bg: #282A36;
+  --pecan-bg-pecanworkspace: #CAA9FA;
   --pecan-bg-pecannetwork: none;
   --pecan-bg-pecandate: none;
   --pecan-bg-pecanbattery: none;
@@ -20,7 +20,7 @@
   --pecan-opacity-center: 1;
   --pecan-shadow: 0px 4px 10px 4px rgba(0,0,0,0.15);
   --pecan-shadow-inner: 0px 1px 1px 1px rgba(0,0,0,0.0);
-  --pecan-height: 36px;
+  --pecan-height: 30px;
   --pecan-padding-left: 0px;
   --pecan-padding-right: 0px;
   --pecan-padding-v: 0px;
