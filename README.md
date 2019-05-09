@@ -15,7 +15,7 @@ A bar for macOS.  It was built to be highly configurable and — by default — 
 Pecan requires [Übersicht](http://tracesof.net/uebersicht/).  Once Übersicht is installed, you can clone this repository to where your Übersicht bars are placed.
 
 ```
-git clone https://github.com/zzzeyez/Pecan.git "$HOME/Library/Application Support/Übersicht/widgets/Pecan"
+git clone https://github.com/TeeYayYang/Pecan.git "$HOME/Library/Application Support/Übersicht/widgets/Pecan"
 ```
 
 If Übersicht is running, then the bar should appear.
